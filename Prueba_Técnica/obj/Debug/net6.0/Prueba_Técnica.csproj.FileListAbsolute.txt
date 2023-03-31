@@ -1,0 +1,15 @@
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\bin\Debug\net6.0\Prueba_Técnica.exe
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\bin\Debug\net6.0\Prueba_Técnica.deps.json
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\bin\Debug\net6.0\Prueba_Técnica.runtimeconfig.json
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\bin\Debug\net6.0\Prueba_Técnica.dll
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\bin\Debug\net6.0\Prueba_Técnica.pdb
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.csproj.AssemblyReference.cache
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.AssemblyInfoInputs.cache
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.AssemblyInfo.cs
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.csproj.CoreCompileInputs.cache
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.dll
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\refint\Prueba_Técnica.dll
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.pdb
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\Prueba_Técnica.genruntimeconfig.cache
+C:\Users\jemil\source\repos\Prueba_Técnica\Prueba_Técnica\obj\Debug\net6.0\ref\Prueba_Técnica.dll
